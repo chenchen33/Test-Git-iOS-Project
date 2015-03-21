@@ -9,6 +9,9 @@
 #import "CCTest.h"
 
 @implementation CCTest
+-(void)testFunction{
+    
+}
 
 -(void)secondTestFunction {
     
