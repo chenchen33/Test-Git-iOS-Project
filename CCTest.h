@@ -10,4 +10,6 @@
 
 @interface CCTest : NSObject
 
+
+@property (strong, nonatomic) NSArray *myArray;
 @end
