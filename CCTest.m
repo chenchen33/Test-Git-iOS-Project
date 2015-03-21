@@ -10,4 +10,8 @@
 
 @implementation CCTest
 
+-(void)secondTestFunction {
+    
+}
+
 @end
